@@ -1,5 +1,11 @@
 # @azure-tools/cadl-ranch-specs
 
+## 0.4.3
+
+### Patch Changes
+
+- [#148](https://github.com/Azure/cadl-ranch/pull/148) [`0631ee6`](https://github.com/Azure/cadl-ranch/commit/0631ee6db7de212db19f63f267b8a1f138af4a1d) Thanks [@pshao25](https://github.com/pshao25)! - Add convenienceAPI decorator to array spec
+
 ## 0.4.2
 
 ### Patch Changes
