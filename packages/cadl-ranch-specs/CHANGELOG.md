@@ -1,5 +1,11 @@
 # @azure-tools/cadl-ranch-specs
 
+## 0.34.1
+
+### Patch Changes
+
+- 15cfc3e: Use explicit body to avoid model get spread
+
 ## 0.34.0
 
 ### Minor Changes
